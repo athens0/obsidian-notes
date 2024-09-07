@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "19ad002686932861",
+    "type": "split",
+    "children": [
+      {
+        "id": "0737d0ec79ad3a64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19021b1f466e0c95",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3ac47dc85fe2ada",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2d4ce2bb940211f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "727411b28718e7dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0fbe808c9dd54a34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a3f11ddd6f4d335",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ddf2a023a91f952f",
+    "type": "split",
+    "children": [
+      {
+        "id": "21915414e182d5d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faf0d3c66a7014b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d8aa074dac07e69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c55fddf3a8f17e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2e265bd23ee18103",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b100863bfc2c185c",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "30644cb77297baf4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "727411b28718e7dc",
+  "lastOpenFiles": [
+    "Itmo/DM/Основная информация.md",
+    "Itmo/LA/Основная информация.md",
+    "Itmo/BP/Основная информация.md",
+    "Itmo/A&DS/Основная информация.md",
+    "Itmo/DM/07.09.2024 Первое занятие №1 Вводное занятие.md",
+    "Itmo/LA/06.09.2024 Первое занятие №1 Комплексные числа.md",
+    "Itmo/README.md",
+    "Itmo/BP/07.09.2024 Первое занятие №1 Знакомство с CMake и с предметом в целом.md",
+    "Itmo/LA",
+    "[C++.md",
+    "Itmo/A&DS/07.09.2024 Первое занятие №1 Оценка сложности алгоритма и сортировка вставками.md",
+    "Itmo/BP",
+    "Itmo/DM",
+    "Untitled.canvas",
+    "Welcome.md",
+    "Itmo/A&DS",
+    "Itmo"
+  ]
+}
