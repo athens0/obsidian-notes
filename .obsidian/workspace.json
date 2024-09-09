@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0737d0ec79ad3a64",
+        "id": "cb391fd5dbc4cf83",
         "type": "tabs",
         "children": [
           {
-            "id": "c9045b798c2db10d",
+            "id": "9a88df9fa533ad54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,20 +155,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9045b798c2db10d",
+  "active": "9a88df9fa533ad54",
   "lastOpenFiles": [
-    "Itmo/README.md",
-    "README.md",
-    "Itmo/LA/Основная информация.md",
-    "Itmo/DM/Основная информация.md",
-    "Itmo/BP/Основная информация.md",
-    "Itmo/A&DS/Основная информация.md",
+    "Itmo/English B1.2-3/09.09.2024 Первое занятие Второе занятие №1 №2 Знакомство, тема a1.md",
+    "Itmo/A&DS/07.09.2024 Первое занятие №1 Оценка сложности алгоритма и сортировка вставками.md",
+    "Itmo/BP/07.09.2024 Первое занятие №1 Знакомство с CMake и с предметом в целом.md",
     "Itmo/DM/07.09.2024 Первое занятие №1 Вводное занятие.md",
     "Itmo/LA/06.09.2024 Первое занятие №1 Комплексные числа.md",
-    "Itmo/BP/07.09.2024 Первое занятие №1 Знакомство с CMake и с предметом в целом.md",
+    "Itmo/DM/Основная информация.md",
+    "Itmo/English B1.2-3/Основная информация.md",
+    "Itmo/LA/Основная информация.md",
+    "Itmo/English B1.2-3/res/grading.jpeg",
+    "Itmo/English B1.2-3/res/gradings.jpeg",
+    "Itmo/English B1.2-3/res/WhatsApp Image 2024-09-09 at 21.57.08.jpeg",
+    "Itmo/English B1.2-3/res",
+    "Itmo/BP/Основная информация.md",
+    "README.md",
+    "Itmo/English B1.2-3",
+    "Itmo/A&DS/Основная информация.md",
+    "Itmo/README.md",
     "Itmo/LA",
     "[C++.md",
-    "Itmo/A&DS/07.09.2024 Первое занятие №1 Оценка сложности алгоритма и сортировка вставками.md",
     "Itmo/BP",
     "Itmo/DM",
     "Untitled.canvas",
