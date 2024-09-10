@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb391fd5dbc4cf83",
+        "id": "cedc11234ddcce40",
         "type": "tabs",
         "children": [
           {
-            "id": "9a88df9fa533ad54",
+            "id": "3988996e77946c17",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -155,24 +155,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a88df9fa533ad54",
+  "active": "3988996e77946c17",
   "lastOpenFiles": [
-    "Itmo/English B1.2-3/09.09.2024 Первое занятие Второе занятие №1 №2 Знакомство, тема a1.md",
-    "Itmo/A&DS/07.09.2024 Первое занятие №1 Оценка сложности алгоритма и сортировка вставками.md",
-    "Itmo/BP/07.09.2024 Первое занятие №1 Знакомство с CMake и с предметом в целом.md",
-    "Itmo/DM/07.09.2024 Первое занятие №1 Вводное занятие.md",
-    "Itmo/LA/06.09.2024 Первое занятие №1 Комплексные числа.md",
+    "Itmo/MA/Основная информация.md",
+    "Itmo/A&DS/07.09.2024 Лекция №1 Оценка сложности алгоритма и сортировка вставками.md",
+    "Itmo/BP/07.09.2024 Лабораторная №1 Знакомство с CMake и с предметом в целом.md",
+    "Itmo/DM/07.09.2024 Лабораторная №1 Вводное занятие.md",
+    "Itmo/English B1.2-3/09.09.2024 Практика №1 Знакомство, Практика №2 тема a1.md",
+    "Itmo/MA/10.09.2024 Практика №1 Множества.md",
+    "Itmo/LA/06.09.2024 Практика №1 Комплексные числа.md",
+    "Itmo/A&DS/Основная информация.md",
+    "Itmo/BP/Основная информация.md",
     "Itmo/DM/Основная информация.md",
     "Itmo/English B1.2-3/Основная информация.md",
     "Itmo/LA/Основная информация.md",
+    "Itmo/MA",
     "Itmo/English B1.2-3/res/grading.jpeg",
     "Itmo/English B1.2-3/res/gradings.jpeg",
     "Itmo/English B1.2-3/res/WhatsApp Image 2024-09-09 at 21.57.08.jpeg",
     "Itmo/English B1.2-3/res",
-    "Itmo/BP/Основная информация.md",
     "README.md",
     "Itmo/English B1.2-3",
-    "Itmo/A&DS/Основная информация.md",
     "Itmo/README.md",
     "Itmo/LA",
     "[C++.md",
