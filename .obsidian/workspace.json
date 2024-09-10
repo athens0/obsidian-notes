@@ -11,8 +11,12 @@
             "id": "3988996e77946c17",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Itmo/MA/Основная информация.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Itmo/MA/Основная информация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Itmo/MA/Основная информация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Itmo/MA/Основная информация.md"
+              }
             }
           },
           {
@@ -157,17 +165,19 @@
   },
   "active": "3988996e77946c17",
   "lastOpenFiles": [
-    "Itmo/MA/Основная информация.md",
+    "Itmo/MA/10.09.2024 Лекция №1 Введение, числовые множества; Лекция №2.md",
+    "Itmo/MA/10.09.2024 Практика №1 Множества.md",
+    "Itmo/English B1.2-3/09.09.2024 Практика №1 Знакомство; Практика №2 тема a1.md",
     "Itmo/A&DS/07.09.2024 Лекция №1 Оценка сложности алгоритма и сортировка вставками.md",
     "Itmo/BP/07.09.2024 Лабораторная №1 Знакомство с CMake и с предметом в целом.md",
     "Itmo/DM/07.09.2024 Лабораторная №1 Вводное занятие.md",
-    "Itmo/English B1.2-3/09.09.2024 Практика №1 Знакомство, Практика №2 тема a1.md",
-    "Itmo/MA/10.09.2024 Практика №1 Множества.md",
+    "Itmo/MA/Основная информация.md",
+    "Itmo/DM/10.09.2024 Лекция №1 Множества.md",
+    "Itmo/DM/Основная информация.md",
+    "Itmo/English B1.2-3/Основная информация.md",
     "Itmo/LA/06.09.2024 Практика №1 Комплексные числа.md",
     "Itmo/A&DS/Основная информация.md",
     "Itmo/BP/Основная информация.md",
-    "Itmo/DM/Основная информация.md",
-    "Itmo/English B1.2-3/Основная информация.md",
     "Itmo/LA/Основная информация.md",
     "Itmo/MA",
     "Itmo/English B1.2-3/res/grading.jpeg",
