@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a9b8b936734a929c",
+        "id": "516e3e016e5b72ea",
         "type": "tabs",
         "children": [
           {
-            "id": "b040c30dfafdb23c",
+            "id": "499cc2068c18eac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itmo/MA/Основная информация.md",
+                "file": "Itmo/LA/11.09.2024 Лекция №1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itmo/MA/Основная информация.md",
+                "file": "Itmo/LA/11.09.2024 Лекция №1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itmo/MA/Основная информация.md",
+                "file": "Itmo/LA/11.09.2024 Лекция №1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itmo/MA/Основная информация.md"
+                "file": "Itmo/LA/11.09.2024 Лекция №1.md"
               }
             }
           },
@@ -163,23 +163,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b040c30dfafdb23c",
+  "active": "499cc2068c18eac1",
   "lastOpenFiles": [
-    "Itmo/A&DS/Основная информация.md",
+    "Itmo/LA/06.09.2024 Практика №1 Комплексные числа.md",
+    "Itmo/BP/11.09.2024 Лекция №1 Введение.md",
+    "Itmo/LA/11.09.2024 Лекция №1.md",
+    "Itmo/BP/07.09.2024 Лабораторная №1 Знакомство с CMake и с предметом в целом.md",
     "Itmo/BP/Основная информация.md",
     "Itmo/DM/Основная информация.md",
-    "Itmo/English B1.2-3/Основная информация.md",
+    "Itmo/A&DS/Основная информация.md",
     "Itmo/MA/Основная информация.md",
-    "Itmo/LA/Основная информация.md",
-    "Itmo/LA/06.09.2024 Практика №1 Комплексные числа.md",
     "Itmo/MA/10.09.2024 Лекция №1 Введение, числовые множества; Лекция №2 Отображения, функции.md",
+    "Itmo/English B1.2-3/Основная информация.md",
+    "Itmo/LA/Основная информация.md",
     "Itmo/MA/10.09.2024 Практика №1 Множества.md",
+    "Itmo/A&DS/10.09.2024 Лабораторная №1 Введение, сложность алгоритма, сортировка вставками.md",
+    "Itmo/A&DS/07.09.2024 Лекция №1 Оценка сложности алгоритма и сортировка вставками.md",
+    "2024-09-10.md",
     "Itmo/English B1.2-3/09.09.2024 Практика №1 Знакомство; Практика №2 тема a1.md",
     "Itmo/DM/10.09.2024 Лекция №1 Множества.md",
     "Itmo/DM/07.09.2024 Лабораторная №1 Вводное занятие.md",
-    "Itmo/BP/07.09.2024 Лабораторная №1 Знакомство с CMake и с предметом в целом.md",
-    "Itmo/A&DS/07.09.2024 Лекция №1 Оценка сложности алгоритма и сортировка вставками.md",
-    "Itmo/A&DS/10.09.2024 Лабораторная №1 Введение, сложность алгоритма, сортировка вставками.md",
     "Itmo/MA",
     "Itmo/English B1.2-3/res/grading.jpeg",
     "Itmo/English B1.2-3/res/gradings.jpeg",
